@@ -1,0 +1,8 @@
+[test]
+centos-tes ansible_host=161.35.112.72
+[centos]
+centos1 ansible_host=192.241.136.106
+centos2 ansible_host=192.241.136.212
+centos3 ansible_host=162.243.172.217
+centos4 ansible_host=159.89.82.182
+centos5 ansible_host=64.227.24.255
